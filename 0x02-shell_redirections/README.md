@@ -1,1 +1,1 @@
-This is an executable file and will print 'Hello, World'
+This file will display a confused face
